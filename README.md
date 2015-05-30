@@ -12,8 +12,8 @@ It only modifies the UI and writes a single xml configuration file. It should no
 Once that is done, then subscribe, Launch the game, and then activate the mod. When you go into the game, click on one of the supported panels (see below)
 At first it won't look very special. There are two critical things you must do.
 
-    You MOVE the panel by HOLDING DOWN the *LEFT* Ctrl Key. While still holding down ctrl, LEFT CLICK and HOLD the mouse button down ON AN ASSET THAT IS ENABLED. If you can't buy it yet, then it won't work as a "handle" for moving the window. While you have the LEFT Ctrl Key down, clicking will not select the asset, but turn it into a "handle" to move the window with.
-    To RESIZE it, there is an icon of two arrows in the bottom right edge of the panel. Just left click on those and while holding down the left mouse button drag the window to resize it. You do not have to hold down CTRL for resizing the window. 
+You MOVE the panel by HOLDING DOWN the *LEFT* Ctrl Key. While still holding down ctrl, LEFT CLICK and HOLD the mouse button down ON AN ASSET THAT IS ENABLED. If you can't buy it yet, then it won't work as a "handle" for moving the window. While you have the LEFT Ctrl Key down, clicking will not select the asset, but turn it into a "handle" to move the window with.
+To RESIZE it, there is an icon of two arrows in the bottom right edge of the panel. Just left click on those and while holding down the left mouse button drag the window to resize it. You do not have to hold down CTRL for resizing the window. 
 
 
 That's it. You can make a small little area or you can stretch the panel almost entirely across the screen! You can make it a horizontal row or vertical row. You can move it around and stretch and shrink it all you want. It's your panel now.
